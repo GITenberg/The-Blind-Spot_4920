@@ -1,0 +1,32 @@
+_repo: The-Blind-Spot_4920
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Flint, Homer Eon
+    alias: Flindt, Homer Eon
+    birthdate: 1888
+    deathdate: 1924
+    gutenberg_agent_id: '1592'
+    url: http://www.gutenberg.org/2009/agents/1592
+    wikipedia: http://en.wikipedia.org/wiki/Homer_Eon_Flint
+  - agent_name: Hall, Austin
+    birthdate: 1882
+    deathdate: 1933
+    gutenberg_agent_id: '1591'
+    url: http://www.gutenberg.org/2009/agents/1591
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Blind Spot
+url: http://www.gutenberg.org/ebooks/4920
